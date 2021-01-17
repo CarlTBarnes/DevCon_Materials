@@ -14,6 +14,7 @@ The schedule lists a "Tacky Tourist Party" which I do recall as being so fun it 
 
 * Man with Parrots to put on you and take a picture
 * Palm Reader / Fortune Teller
+* Caricature Artist doing Portraits
 * Games to play and win Tacky Prizes
 * Life Sized Rock-em Sock-em Robots - you strapped into your robot about 2 feet in front of you - Fun! 
 * Beach Snacks: Cotton Candy, Snow Cones, Pretzels
