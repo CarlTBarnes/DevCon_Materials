@@ -28,12 +28,12 @@ ROUTINEs were made faster via the way DO and EXIT work, they are a simple jump. 
 
 Always a highlight the final session was hearing the boss reveal some inside info about things that had happened we did not know about, and what was planned for the future. I took a few notes that I put below. I would also point out that the price sheet (in the schedule PDF) shows that CDD 3.0 was for sale, so no CFD 3.1 yet, and Clarion for Windows was sold as a Beta. The Bob Butler PDF shows he had a Windows version of Time Matters so he had used the Beta.
 
-* No firm date on CDDW Gold shipping. There were not going to add any more functionality just fix the bugs and make one more Beta release. My 1.003 is dated 6-7-1995.
-* CFD 3.1 was in initial Beta with some customers.
+* No firm date on CDDW Gold shipping. They were not going to add any more functionality, just fix the bugs and make one more Beta release. My 1.003 is dated 6-7-1995.
+* CFD 3.1 was in initial Beta with some customers. Did not have ship date.
 * Working on 32-bit DOS compilers. Also Jensen C, C++ and Modula-2 compilers as part of the CFD IDE.
-* Clarion Chicago Compiler and Linker. "Chicago" was the Microsoft project that turned into Windows 95 their first 32-bit Consumer OS. Betas came out in 1993-1994 so the Dev Center probably had one.
-* Next release of CW could be 32-bit. I took this to mean a 32-bit IDE and possibly TS thought it would be possible. Version 1.5 did offer 32-bit compilers but the IDE remained 16-bit until version 7.0.
-* Future Project  - Report Writer for Windows
+* Clarion Chicago Compiler and Linker. The Microsoft "Chicago" project turned into Windows 95 their first 32-bit Consumer OS. Betas came out in 1993-1994 so the Dev Center had one.
+* Next release of CW could be 32-bit. I took this to mean a 32-bit IDE and possibly TS thought it would be possible. Version 1.5 did offer 32-bit compilers but the IDE remained 16-bit until replaced by SharpDevelop in 7.0.
+* Future Project - Report Writer for Windows
 * Future Project - Personal Developer for Windows (never happned)
-* Future Project -  TopSpeed Data Base driver – BB said "Very promising"
+* Future Project - TopSpeed Data Base driver – BB said "Very promising" and it did prove amazing. - CW 1.003 has a TPS driver.
 
